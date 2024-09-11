@@ -1,0 +1,12 @@
+
+-------------------------LiveUpdate (C:\Program Files\MusicFab\MusicFab\LiveUpdate.exe --config_file C:/Users/hpalavecino/Documents/MusicFab/MusicFab/Temp//Update//update_config.xml --url_suffix=clientusertype=paid_aio --user_type paid_aio)(pid=9712 ThreadId=0x25ec) Begin 2023-08-28 08:26:43----------------------------
+9712 08:26:44(0xd34)I: check ServerSoftWareVersion 62
+9712 08:26:49(0xd34)I: RecommendSoftWare server return:  {"cscode":-1,"version":1}
+
+-------------------------LiveUpdate(pid=9712 ThreadId=0x25ec) End 2023-08-28 08:26:49----------------------------
+
+-------------------------LiveUpdate (C:\Program Files\MusicFab\MusicFab\LiveUpdate.exe --config_file C:/Users/hpalavecino/Documents/MusicFab/MusicFab/Temp//Update//update_config.xml --url_suffix=clientusertype=try --user_type try)(pid=9896 ThreadId=0x26e8) Begin 2023-08-28 09:18:11----------------------------
+9896 09:18:12(0x23c4)I: check ServerSoftWareVersion 62
+9896 09:18:17(0x23c4)I: RecommendSoftWare server return:  {"cscode":-1,"version":1}
+
+-------------------------LiveUpdate(pid=9896 ThreadId=0x26e8) End 2023-08-28 09:18:17----------------------------
